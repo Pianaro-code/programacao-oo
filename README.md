@@ -57,7 +57,7 @@ IntelliJ IDEA ou outra IDE
 Git (opcional, para clonar o repositório)
 Usando o IntelliJ IDEA (recomendado)
 Clone o repositório:
-git clone https://github.com/SchusterAluizio/programacao-oo.git
+git clone https://github.com/pianaro-code/programacao-oo.git
 Abra o IntelliJ IDEA:
 
 Vá em File > Open...
