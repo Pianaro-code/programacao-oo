@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/ed02/ed02.iml" filepath="$PROJECT_DIR$/ed02/ed02.iml" />
       <module fileurl="file://$PROJECT_DIR$/ed02.conta/ed02.conta.iml" filepath="$PROJECT_DIR$/ed02.conta/ed02.conta.iml" />
       <module fileurl="file://$PROJECT_DIR$/programacao-oo.iml" filepath="$PROJECT_DIR$/programacao-oo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ed02/rpg/rpg.iml" filepath="$PROJECT_DIR$/ed02/rpg/rpg.iml" />
     </modules>
   </component>
 </project>
