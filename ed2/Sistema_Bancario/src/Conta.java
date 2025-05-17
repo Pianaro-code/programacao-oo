@@ -27,10 +27,6 @@ public abstract class Conta {
         System.out.printf("Saldo atual de %s após receber: R$%.2f%n%n", destino.cliente, destino.saldo);
     }
 
-    public double getSaldo() {
-        return saldo;
-    }
-
     public abstract void aplicarJurosDiarios();
         // Metodo genérico para sobrescrita
 
